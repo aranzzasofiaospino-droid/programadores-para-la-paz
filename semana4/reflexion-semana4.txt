@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan construir sus propias herramientas tecnológicas porque les permite resolver problemas de acuerdo con sus necesidades reales.  
+El uso de tecnologías abiertas como Node.js facilita el acceso al conocimiento sin costos elevados.  
+Esto fomenta la innovación y el aprendizaje dentro de las comunidades.  
+Además, permite que más personas puedan participar en el desarrollo tecnológico.  
+Las herramientas propias dan independencia frente a grandes empresas tecnológicas.  
+También ayudan a crear soluciones más rápidas y adaptadas al contexto local.  
+El trabajo colaborativo mejora cuando todos pueden contribuir al proyecto.  
+Por estas razones, Node.js y las tecnologías abiertas son clave para el desarrollo comunitario.
