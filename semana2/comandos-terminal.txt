@@ -1,0 +1,12 @@
+cd ~/programadores-para-la-paz
+
+mkdir semana2
+
+ls
+
+cd semana2
+
+pwd
+
+touch preguntas-semana2.txt comandos-terminal.txt reflexion-semana2.txt
+
