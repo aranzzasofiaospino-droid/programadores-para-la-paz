@@ -1,0 +1,21 @@
+
+Descripción:
+La trazabilidad permite hacer seguimiento a las acciones realizadas dentro de la plataforma comunitaria.
+
+Eventos registrados:
+
+1. Registro de usuario
+- Se guarda cuando un usuario crea una cuenta.
+- Datos: nombre, correo, fecha de registro.
+
+2. Inicio de sesión
+- Se registra cada acceso del usuario al sistema.
+- Datos: usuario, fecha y hora.
+
+3. Creación de causa
+- Se registra cuando un usuario publica una nueva causa.
+- Datos: usuario, causa creada, fecha.
+
+4. Apoyo a causa
+- Se registra cuando un usuario apoya una causa existente.
+- Datos: usuario, causa apoyada, fecha.

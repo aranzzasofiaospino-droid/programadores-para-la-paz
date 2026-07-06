@@ -1,0 +1,24 @@
+
+Método de autenticación:
+Registro e inicio de sesión con correo y contraseña.
+
+Descripción del proceso:
+
+1. El usuario se registra ingresando:
+- nombre
+- correo electrónico
+- contraseña
+
+2. El sistema valida los datos y guarda el usuario.
+
+3. Para iniciar sesión, el usuario ingresa:
+- correo
+- contraseña
+
+4. El sistema verifica la información y permite el acceso si es correcta.
+
+Medidas básicas de seguridad:
+- Las contraseñas deben almacenarse de forma segura (hash).
+- Se valida que el correo no esté repetido.
+- Se controla el acceso a las funciones del sistema según el usuario autenticado.
+
