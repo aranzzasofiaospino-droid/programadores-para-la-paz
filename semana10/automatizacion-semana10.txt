@@ -1,0 +1,8 @@
+
+La automatización consiste en utilizar herramientas o procesos que permiten realizar tareas repetitivas de forma automática, reduciendo errores y ahorrando tiempo.
+
+Beneficios:
+- Disminuye los errores humanos.
+- Aumenta la eficiencia.
+- Permite ahorrar tiempo.
+- Facilita la realización de tareas repetitivas.

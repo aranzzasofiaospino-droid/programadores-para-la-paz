@@ -1,0 +1,14 @@
+1. ¿Qué representa un backlog en metodologías ágiles?
+Respuesta: Una lista priorizada de tareas y funcionalidades pendientes.
+
+2. ¿Cuál es el objetivo principal de una iteración (sprint)?
+Respuesta: Entregar una parte funcional del proyecto en un tiempo definido.
+
+3. ¿Qué ventaja ofrece la automatización de procesos?
+Respuesta: Reduce errores y ahorra tiempo en tareas repetitivas.
+
+4. ¿Por qué es importante coordinar con la comunidad en un proyecto social?
+Respuesta: Porque permite identificar necesidades reales y mejorar el impacto de la solución.
+
+5. ¿Qué metodología ágil utiliza sprints para organizar el trabajo?
+Respuesta: Scrum.

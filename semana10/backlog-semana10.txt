@@ -1,0 +1,14 @@
+BACKLOG - SEMANA 10
+
+Prioridad Alta
+- Definir los requisitos del proyecto.
+- Crear las tareas principales.
+- Organizar el trabajo por prioridades.
+
+Prioridad Media
+- Revisar el avance de cada tarea.
+- Documentar los cambios realizados.
+
+Prioridad Baja
+- Realizar mejoras en la presentación.
+- Actualizar la documentación final.

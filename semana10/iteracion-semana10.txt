@@ -1,0 +1,13 @@
+ITERACIÓN (SPRINT) - SEMANA 10
+
+Objetivo:
+Completar las tareas prioritarias del backlog y entregar una versión funcional del proyecto.
+
+Actividades:
+- Revisar los requisitos del proyecto.
+- Desarrollar las funcionalidades principales.
+- Probar el funcionamiento.
+- Corregir errores encontrados.
+
+Resultado esperado:
+Contar con una versión funcional que cumpla los objetivos definidos para la iteración.
