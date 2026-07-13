@@ -1,0 +1,8 @@
+FLUJO DEL SISTEMA - PETICIÓN EN 3 CLICS
+
+1. Un ciudadano crea una causa comunitaria.
+2. La causa queda registrada en la base de datos.
+3. Otros ciudadanos pueden apoyar la causa.
+4. El sistema registra y cuenta los apoyos recibidos.
+5. Cuando se alcanza el número de apoyos esperado, el sistema genera un documento PDF con la petición.
+6. El documento puede ser compartido o presentado ante las autoridades correspondientes.
